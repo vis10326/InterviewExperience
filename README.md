@@ -1,5 +1,5 @@
-Share your Interview experiences , success or failure stories
+Share your Interview experiences , success or failure stories.
 
-We follow a very simple format 
+Put your files within a directory naming it <your name-your public mail\>
 
-All your files go within a directory name of which is <your name-your public mail>
+That's all you have to do:)
